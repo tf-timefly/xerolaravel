@@ -2,7 +2,7 @@
     "name": "drawmyattention/xerolaravel",
     "description": "A Laravel 5 wrapper for Xero's PHP API",
     "require": {
-        "calcinai/xero-php": "^2.0"
+        "calcinai/xero-php": "^2.2.1"
     },
     "authors": [
         {
