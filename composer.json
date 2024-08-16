@@ -21,5 +21,6 @@
                 "DrawMyAttention\\XeroLaravel\\Providers\\XeroServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "stable"
 }
