@@ -6,8 +6,8 @@
     },
     "authors": [
         {
-            "name": "Amo Chohan",
-            "email": "amo.chohan@gmail.com"
+            "name": "Haiping Lu",
+            "email": "haiping@transformative.nz"
         }
     ],
     "autoload": {
@@ -21,6 +21,5 @@
                 "DrawMyAttention\\XeroLaravel\\Providers\\XeroServiceProvider"
             ]
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
